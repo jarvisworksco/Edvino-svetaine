@@ -33,14 +33,14 @@ export function Hero() {
           className="max-w-4xl mx-auto"
         >
           <h1 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-bold tracking-tight leading-[1.1] text-white">
-            Profesionali{" "}
+            Profesionalus{" "}
             <span className="text-cream">{siteData.veiklosSritis}</span>
             <br />
             ir aukštos kokybės sprendimai
           </h1>
 
           <p className="mt-4 sm:mt-6 text-base sm:text-lg text-white/85 max-w-2xl mx-auto leading-relaxed">
-            Atliekame visus darbus {siteData.aptarnavimoRegionas} — greitai,
+            Atliekame visus darbus Panevėžyje ir +200 km aplink — greitai,
             saugiai ir profesionaliai. Susisiekite ir gaukite nemokamą
             įvertinimą.
           </p>
