@@ -140,6 +140,16 @@ export const siteData = {
     },
   ],
 
+  atsiliepimai: [
+    {
+      vardas: "Diana",
+      pazymiai: 5,
+      data: "2021-05-02",
+      tekstas:
+        "Labai profesionaliai dirbantis ir mylintis savo darbą arboristas Edvinas, profesionaliai atliko savo darbą, labai išsamiai ir įdomiai papasakojo apie medžius, kainos ir kokybės santykis puikus, rekomenduoju visiems, tikrai nenusivilsite :)",
+    },
+  ],
+
   agenturosCredit: "Novera komandos",
   agenturosUrl: "",
 } as const;
