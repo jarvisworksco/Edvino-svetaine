@@ -150,8 +150,8 @@ export const siteData = {
     },
   ],
 
-  agenturosCredit: "Novera komandos",
-  agenturosUrl: "",
+  agenturosCredit: "jarvisweb.lt",
+  agenturosUrl: "https://jarvisweb.lt",
 } as const;
 
 function aptarnavimoRegionasLabel(regionas: string): string {
